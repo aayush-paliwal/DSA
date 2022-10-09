@@ -2,7 +2,7 @@ package Java.Patterns;
 
 public class Patterns1 {
     public static void main(String[] args) {
-        pattern12(5);
+        pattern6(5);
     }
 
     static void pattern1(int n){
